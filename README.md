@@ -1,20 +1,12 @@
-<!-- Stats + GIFs vandret, helt uden border -->
-<div style="display:inline-flex; align-items:center; justify-content:flex-start; gap:12px; width:100%;">
-  <!-- Statskort -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2"
-    alt="hrstamm top languages"
-    style="max-width:420px; height:auto;"
-  />
-
-  <!-- GIFs -->
-  <div style="display:flex; align-items:center; gap:10px;">
-    <img src="assets/portal.gif" width="90" alt="Portal animation" />
-    <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
-  </div>
-</div>
-
-<br clear="both" />
+<!-- Stats + GIFs on the same line (no borders, no CSS) -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2"
+       alt="hrstamm top languages" height="170" />
+  &nbsp;&nbsp;
+  <img src="assets/portal.gif" width="90" alt="Portal animation" />
+  &nbsp;
+  <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
+</p>
 
 <!-- LinkedIn -->
 <h3 align="left">Links:</h3>
