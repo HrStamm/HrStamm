@@ -1,18 +1,14 @@
-<!-- Sprogstatistik + GIFs tæt side om side, uden nogen synlig ramme -->
-<table align="left" style="border:none; border-collapse:collapse; border-spacing:0;">
-  <tr style="border:none;">
-    <!-- Venstre: sprogkort -->
-    <td style="border:none; padding:0; vertical-align:middle;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2" alt="hrstamm top languages" />
-    </td>
+<!-- Sprogstatistik + GIFs tæt side om side, uden border -->
+<div style="display:flex; align-items:center; justify-content:flex-start; gap:8px;">
+  <!-- Venstre: sprogkort -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2" alt="hrstamm top languages" />
 
-<!-- Højre: portal + Rick -->
-  <td style="border:none; padding-left:8px; vertical-align:middle;">
+  <!-- Højre: portal + Rick -->
+  <div>
     <img src="assets/portal.gif" width="90" alt="Portal animation" />
     <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
-  </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 <br clear="both" />
 
