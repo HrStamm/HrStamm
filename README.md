@@ -11,7 +11,10 @@
   </a>
 </p>
 
-<!-- Lille gif -->
 <p align="center">
-  <img src="https://media.tenor.com/nVzmP7Th76IAAAAM/adventure-time-portal.gif" width="120" alt="Portal animation" />
+  <img src="assets/portal.gif" width="140" alt="Portal animation" />
+</p>
+
+<p align="center">
+  <img src="assets/Rick.gif" width="140" alt="Rick Gif" />
 </p>
