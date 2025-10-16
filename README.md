@@ -1,6 +1,6 @@
 <!-- Sprogstatistik -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark" alt="hrstamm top languages" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2" alt="hrstamm top languages" />
 </p>
 
 <!-- LinkedIn -->
