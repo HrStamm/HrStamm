@@ -6,11 +6,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2" alt="hrstamm top languages" />
     </td>
 
-    <!-- Højre: portal + Rick -->
-    <td style="border:none; padding-left:8px; vertical-align:middle;">
-      <img src="assets/portal.gif" width="90" alt="Portal animation" />
-      <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
-    </td>
+<!-- Højre: portal + Rick -->
+  <td style="border:none; padding-left:8px; vertical-align:middle;">
+    <img src="assets/portal.gif" width="90" alt="Portal animation" />
+    <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
+  </td>
   </tr>
 </table>
 
