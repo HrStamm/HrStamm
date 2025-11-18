@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank">
     <img src="./assets/Linked In.png"
          alt="LinkedIn button"
-         height="150" />
+         height="80" />
   </a>
 </p>
 
