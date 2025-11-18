@@ -12,9 +12,10 @@
 <h3 align="left">Links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank">
-    <img src="assets/Linked_In.png"
+    <img src="./assets/Linked_In.png"
          alt="LinkedIn button"
          height="50" />
   </a>
 </p>
+
 
