@@ -14,12 +14,11 @@
   <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank">
     <img src="./assets/Linked In.png"
          alt="LinkedIn button"
-         height="50" />
+         height="220" />
   </a>
 </p>
 
-### Links:
-[![LinkedIn button](./assets/Linked In.png)](https://www.linkedin.com/in/valdemarstamm)
+
 
 
 
