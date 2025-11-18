@@ -12,14 +12,14 @@
 <h3 align="left">Links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank">
-    <img src="./assets/Linked_In.png"
+    <img src="./assets/Linked In.png"
          alt="LinkedIn button"
          height="50" />
   </a>
 </p>
 
 ### Links:
-[![LinkedIn button](./assets/Linked_In.png)](https://www.linkedin.com/in/valdemarstamm)
+[![LinkedIn button](./assets/Linked In.png)](https://www.linkedin.com/in/valdemarstamm)
 
 
 
