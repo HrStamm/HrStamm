@@ -18,4 +18,8 @@
   </a>
 </p>
 
+### Links:
+[![LinkedIn button](./assets/Linked_In.png)](https://www.linkedin.com/in/valdemarstamm)
+
+
 
