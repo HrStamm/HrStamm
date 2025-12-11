@@ -1,8 +1,7 @@
 <!-- Stats + GIFs on the same line (no borders, no CSS) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&v=2"
-       alt="hrstamm top languages" height="170" />
-  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrstamm&layout=compact&hide=html,css&theme=onedark&cache_seconds=1800"
+     alt="hrstamm top languages" height="170" />
   <img src="assets/portal.gif" width="90" alt="Portal animation" />
   &nbsp;
   <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
