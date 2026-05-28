@@ -7,21 +7,24 @@
   <img src="assets/Rick.gif" width="90" alt="Rick Gif" />
 </p>
 
-<!-- LinkedIn + Website -->
+<!-- Links -->
 <h3 align="left">Links:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank">
     <img src="./assets/Linked In.png"
-         alt="LinkedIn button"
-         height="50" />
+         alt="LinkedIn"
+         height="60"
+         align="middle" />
   </a>
   &nbsp;
   <a href="https://www.valdemarstamm.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-valdemarstamm.com-00171F?style=for-the-badge&logo=googlechrome&logoColor=white"
-         alt="Website button"
-         height="50" />
+         alt="Website"
+         height="60"
+         align="middle" />
   </a>
 </p>
+
 
 
 
