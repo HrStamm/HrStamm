@@ -9,7 +9,7 @@
 <!-- Links -->
 <h3 align="left">Links:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-valdemarstamm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" align="middle" /></a>
+  <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank"><img src="./assets/Linked In.png" alt="LinkedIn" height="60" align="middle" /></a>
   &nbsp;
-  <a href="https://www.valdemarstamm.com" target="_blank"><img src="https://img.shields.io/badge/Website-valdemarstamm.com-00171F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="50" align="middle" /></a>
+  <a href="https://www.valdemarstamm.com" target="_blank"><img src="https://img.shields.io/badge/Website-valdemarstamm.com-00171F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="60" align="middle" /></a>
 </p>
