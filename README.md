@@ -11,5 +11,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/valdemarstamm" target="_blank"><img src="./assets/Linked_In.png" alt="LinkedIn" height="60" align="middle" /></a>
   &nbsp;
-  <a href="https://www.valdemarstamm.com" target="_blank"><img src="./assets/Portfolio.png" alt="Portfolio" height="102" align="middle" /></a>
+  <a href="https://www.valdemarstamm.com" target="_blank"><img src="./assets/Portfolio.png" alt="Portfolio" height="60" align="middle" /></a>
 </p>
